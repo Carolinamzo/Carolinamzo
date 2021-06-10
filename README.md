@@ -1,16 +1,30 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://media.giphy.com/media/10wfgzlX5CKzRe/giphy.gif" width="27px">
+  <br><br>
+  <samp>
+    :wave: Hi! I'm a Data Analyst with an
+    <br><em>expertise in business inteligence</em>. Passionate for technology
+    <br>and making decisions. I constantly searching for my purpose ✨<br><br>
+    <img src="https://media.giphy.com/media/2tSodgDfwCjIMCBY8h/giphy.gif" width="240px" align="center">
+    <br><br>:coffee: Connect with me: <a 
+href="https://www.linkedin.com/in/carolinameza2/">LinkedIn</a>
+  </samp>
+</p>
 
-<!--
-**Carolinamzo/Carolinamzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+  <summary><b>🔭 2021 goals</b></summary>
+- 🔭 I’m searching for work in Power BI, SQL & DA
+- 🌱 I’m currently learning TensorFlow and QlikSense
+- 👯 I’m looking to collaborate on AWS
+- 💬 Ask me about Anything
+- 📫 How to reach me: @ me on <a href="https://twitter.com/CarolinaMezaDA?s=08">Twitter</a>
+- ⚡ Fun fact: I play ukulele and I love cats 💖
+</details>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://media.giphy.com/media/3oz8xzF04ey6yQT4d2/giphy.gif" width="100px">
+  <br><br>
+  <samp>
+    🔭 Check my portafolio and repositories.
+  </samp>
+</p>
