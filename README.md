@@ -3,7 +3,7 @@
   <br><br>
   <samp>
     :wave: Hi! I'm a Data Analyst with an
-    <br><em>expertise in business inteligence</em>. Passionate for technology
+    <br><em>expertise in Business Intelligence</em>. Passionate for technology
     <br>and making decisions. I constantly searching for my purpose ✨<br><br>
     <img src="https://media.giphy.com/media/2tSodgDfwCjIMCBY8h/giphy.gif" width="340px" align="center">
     <br><br>:coffee: Connect with me: <a 
