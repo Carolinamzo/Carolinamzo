@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/10wfgzlX5CKzRe/giphy.gif" width="200px">
+  <img src="https://media.giphy.com/media/10wfgzlX5CKzRe/giphy.gif" width="100px">
   <br><br>
   <samp>
     :wave: Hi! I'm a Data Analyst with an
