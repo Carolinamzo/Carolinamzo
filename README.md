@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/10wfgzlX5CKzRe/giphy.gif" width="27px">
+  <img src="https://media.giphy.com/media/10wfgzlX5CKzRe/giphy.gif" width="200px">
   <br><br>
   <samp>
     :wave: Hi! I'm a Data Analyst with an
     <br><em>expertise in business inteligence</em>. Passionate for technology
     <br>and making decisions. I constantly searching for my purpose ✨<br><br>
-    <img src="https://media.giphy.com/media/2tSodgDfwCjIMCBY8h/giphy.gif" width="240px" align="center">
+    <img src="https://media.giphy.com/media/2tSodgDfwCjIMCBY8h/giphy.gif" width="340px" align="center">
     <br><br>:coffee: Connect with me: <a 
 href="https://www.linkedin.com/in/carolinameza2/">LinkedIn</a>
   </samp>
@@ -22,7 +22,7 @@ href="https://www.linkedin.com/in/carolinameza2/">LinkedIn</a>
 </details>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oz8xzF04ey6yQT4d2/giphy.gif" width="100px">
+  <img src="https://media.giphy.com/media/3oz8xzF04ey6yQT4d2/giphy.gif" width="300px">
   <br><br>
   <samp>
     🔭 Check my portafolio and repositories.
