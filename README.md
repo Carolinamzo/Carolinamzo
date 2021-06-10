@@ -18,7 +18,7 @@ href="https://www.linkedin.com/in/carolinameza2/">LinkedIn</a>
     <br>- 🌱 I’m currently learning TensorFlow and QlikSense
     <br>- 👯 I’m looking to collaborate on AWS
     <br>- 💬 Ask me about Anything
-    <br>- 📫 How to reach me: @ me on <a href="https://twitter.com/CarolinaMezaDA?s=08">Twitter</a>
+    <br>- 📫 How to reach me: @CarolinaMezaDA on <a href="https://twitter.com/CarolinaMezaDA?s=08">Twitter</a>
     <br>- ⚡ Fun fact: I play ukulele and I love cats 💖
   </samp>
 </details>
