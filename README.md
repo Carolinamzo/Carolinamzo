@@ -13,12 +13,15 @@ href="https://www.linkedin.com/in/carolinameza2/">LinkedIn</a>
 
 <details>
   <summary><b>🔭 2021 goals</b></summary>
-- 🔭 I’m searching for work in Power BI, SQL & DA
-- 🌱 I’m currently learning TensorFlow and QlikSense
-- 👯 I’m looking to collaborate on AWS
-- 💬 Ask me about Anything
-- 📫 How to reach me: @ me on <a href="https://twitter.com/CarolinaMezaDA?s=08">Twitter</a>
-- ⚡ Fun fact: I play ukulele and I love cats 💖
+  <br><br>
+  <samp>
+    - 🔭 I’m searching for work in Power BI, SQL & DA
+    - 🌱 I’m currently learning TensorFlow and QlikSense
+    - 👯 I’m looking to collaborate on AWS
+    - 💬 Ask me about Anything
+    - 📫 How to reach me: @ me on <a href="https://twitter.com/CarolinaMezaDA?s=08">Twitter</a>
+    - ⚡ Fun fact: I play ukulele and I love cats 💖
+  </samp>
 </details>
 
 <p align="center">
