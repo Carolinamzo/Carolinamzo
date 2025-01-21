@@ -1,15 +1,16 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
-  <br><br>
-  <samp>
-    :wave: Hi! I'm a Data Analyst with an
-    <br><em>expertise in Business Intelligence</em>. Passionate for technology
-    <br>and making decisions. I constantly searching for my purpose ✨<br><br>
-    <img src="https://media.giphy.com/media/2tSodgDfwCjIMCBY8h/giphy.gif" width="340px" align="center">
-    <br><br>:coffee: Connect with me: <a 
-href="https://www.linkedin.com/in/carolinameza2/">LinkedIn</a>
-  </samp>
-</p>
+<head>
+  <p align="center">
+    <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+    <br><br>
+    <samp>
+      :wave: Hi! I'm a Data Analyst with an
+      <br><em>expertise in Business Intelligence</em>. Passionate for technology
+      <br>and making decisions. I constantly searching for my purpose ✨<br><br>
+      <img src="https://media.giphy.com/media/2tSodgDfwCjIMCBY8h/giphy.gif" width="340px" align="center">
+      <br><br>:coffee: Connect with me: <a 
+  href="https://www.linkedin.com/in/carolinameza2/">LinkedIn</a>
+    </samp>
+  </p>
 
 <details>
   <summary><b>🔭 2021 goals</b></summary>
